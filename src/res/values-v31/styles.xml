@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NoShadow" parent="Theme.App.Splash">
+    </style>
+
+    <style name="Theme.App.Splash" parent="android:style/Theme.NoTitleBar">
+        <!-- Set your splash properties here -->
+        <item name="android:windowSplashScreenBackground">#0060df</item>
+        <item name="android:windowSplashScreenAnimatedIcon">
+            @drawable/splash_screen_animateable_icon
+        </item>
+        <item name="android:windowSplashScreenAnimationDuration">600</item>
+<!--        <item name="android:windowSplashScreenIconBackgroundColor">#004d28</item>-->
+    </style>
+
+</resources>

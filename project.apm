@@ -1,0 +1,12 @@
+{
+    "identifier": "com.distriqt.test",
+    "name": "SplashScreenTest",
+    "filename": "SplashScreenTest",
+    "version": "1.0.0",
+    "versionLabel": "",
+    "platforms": [],
+    "dependencies": [],
+    "configuration": {},
+    "repositories": [],
+    "deployOptions": {}
+}
